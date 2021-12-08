@@ -10,7 +10,7 @@ NLP engine and clustering of same-event news articles
   <li>NLP named entity extraction</li>
 </ul>
 
-## Quick outline
+## Requirements
 <ul style="line-height: 1.5; font-size:12pt">
   <li>Python 3.7</li>
   <li>git</li>
