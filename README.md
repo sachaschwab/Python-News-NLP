@@ -4,7 +4,13 @@ NLP engine and clustering of same-event news articles. Any ideas and feedback ar
 
 ## Structure
 .<br>
- |-- python-news-nlp/   # Python project<br>
+
+| Path | Comment |
+| --- | --- |
+|-- python-news-nlp/| Python project |
+
+
+    # <br>
  |-- data/              # Sample data (see below)<br>
  |-- docs/<br>
  |-----notebook.ipynp   # Walk through the code<br>
