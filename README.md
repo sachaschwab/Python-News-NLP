@@ -7,18 +7,14 @@ NLP engine and clustering of same-event news articles. Any ideas and feedback ar
 
 | Path | Comment |
 | --- | --- |
+|./|  |
 |-- notebook.ipynb| Walk through the code with Data Science-style comments |
-|-- Readme.md|  |
-|-- python-news-nlp/| Python project |
-|------ preprocess.py| Project folder |
-|------ __init__.py| Empty init file |
-|------ data/| Sample data (see below) |
+|--- Readme.md|  |
+|--- python-news-nlp/| |
+|------- preprocess.py| Preprocess data with NLTK |
+|------- __init__.py| Empty init file |
+|------- data/| Sample data (see below) |
 
-
-    # <br>
- |-- data/              # Sample data (see below)<br>
- |-- docs/<br>
- |-----notebook.ipynp   # Walk through the code<br>
 
 ## Quick outline
 <ul style="line-height: 1.5; font-size:12pt">
