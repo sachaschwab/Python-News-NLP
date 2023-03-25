@@ -1,4 +1,4 @@
-# Python-News-NLP
+# Python NLP engine and clustering of same-event news articles
 
 NLP engine and clustering of same-event news articles. Any ideas and feedback are warmly welcome.
 
