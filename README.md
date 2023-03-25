@@ -42,5 +42,6 @@ NLP engine and clustering of same-event news articles. Any ideas and feedback ar
   <li>Text processing (stemming, stopwords etc.) currently limited to English</li>
 </ul>
 
+
 ## Demo data
 Folder /data contains a random subset (400 items) of the Kaggle "All the news" dataset. Full dataset available here: https://www.kaggle.com/snapcrack/all-the-news
